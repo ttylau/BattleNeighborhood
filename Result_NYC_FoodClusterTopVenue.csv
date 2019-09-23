@@ -1,0 +1,62 @@
+Neighborhood,Cluster,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Little Italy,0,Italian Restaurant,Bakery,Café,Chinese Restaurant,Mediterranean Restaurant,Sandwich Place,Thai Restaurant,French Restaurant,Seafood Restaurant,Japanese Restaurant
+West Village,0,Italian Restaurant,American Restaurant,New American Restaurant,Gastropub,French Restaurant,Mexican Restaurant,Japanese Restaurant,Seafood Restaurant,Pizza Place,Café
+Upper East Side,0,Italian Restaurant,American Restaurant,Pizza Place,Diner,French Restaurant,Sushi Restaurant,Bakery,Deli / Bodega,Bagel Shop,Salad Place
+Greenwich Village,0,Italian Restaurant,Café,Sushi Restaurant,American Restaurant,Indian Restaurant,Pizza Place,Seafood Restaurant,Chinese Restaurant,French Restaurant,Sandwich Place
+Flatiron,0,Italian Restaurant,American Restaurant,New American Restaurant,Café,Mediterranean Restaurant,Mexican Restaurant,Japanese Restaurant,Sandwich Place,Bakery,Vegetarian / Vegan Restaurant
+Soho,0,Italian Restaurant,French Restaurant,Café,Mediterranean Restaurant,American Restaurant,Seafood Restaurant,Bakery,Sandwich Place,Pizza Place,Asian Restaurant
+Civic Center,0,Italian Restaurant,Sandwich Place,American Restaurant,French Restaurant,Mexican Restaurant,Café,Bakery,Diner,Pizza Place,Sushi Restaurant
+Manhattan Terrace,1,Pizza Place,Bakery,Donut Shop,Chinese Restaurant,Bagel Shop,Deli / Bodega,Café,Sushi Restaurant,Eastern European Restaurant,Restaurant
+East Harlem,1,Mexican Restaurant,Deli / Bodega,Pizza Place,Bakery,Latin American Restaurant,Fast Food Restaurant,Steakhouse,Café,Burger Joint,Thai Restaurant
+Inwood,1,Mexican Restaurant,Pizza Place,Deli / Bodega,Café,Bakery,Caribbean Restaurant,Spanish Restaurant,American Restaurant,Donut Shop,Diner
+East Williamsburg,1,Deli / Bodega,Mexican Restaurant,Café,Bakery,Pizza Place,Donut Shop,Thai Restaurant,Sandwich Place,Bagel Shop,Fried Chicken Joint
+Hamilton Heights,1,Deli / Bodega,Pizza Place,Mexican Restaurant,Chinese Restaurant,Café,Donut Shop,Sandwich Place,Indian Restaurant,Bakery,Latin American Restaurant
+Washington Heights,1,Pizza Place,Deli / Bodega,Mexican Restaurant,Bakery,Chinese Restaurant,Spanish Restaurant,Restaurant,Donut Shop,Latin American Restaurant,Sandwich Place
+Morningside Heights,2,Deli / Bodega,Food Truck,Pizza Place,Burger Joint,American Restaurant,Café,Sandwich Place,Korean Restaurant,Chinese Restaurant,New American Restaurant
+Manhattan Valley,3,Indian Restaurant,Pizza Place,Deli / Bodega,Mexican Restaurant,Thai Restaurant,Chinese Restaurant,Szechuan Restaurant,Café,French Restaurant,Latin American Restaurant
+Midtown,3,Sandwich Place,American Restaurant,Bakery,Japanese Restaurant,Steakhouse,Pizza Place,French Restaurant,Burger Joint,Mexican Restaurant,Indian Restaurant
+Lower East Side,3,Pizza Place,Bakery,Ramen Restaurant,Chinese Restaurant,Café,Deli / Bodega,Japanese Restaurant,Latin American Restaurant,Sandwich Place,Food Truck
+Battery Park City,3,Pizza Place,Chinese Restaurant,Italian Restaurant,Sandwich Place,Donut Shop,Seafood Restaurant,BBQ Joint,Food Court,Burger Joint,Sushi Restaurant
+North Side,3,Pizza Place,Burger Joint,American Restaurant,Mexican Restaurant,Italian Restaurant,Bakery,Vegetarian / Vegan Restaurant,Breakfast Spot,Asian Restaurant,Food Truck
+Downtown,3,Pizza Place,Sandwich Place,Food Truck,Burger Joint,Caribbean Restaurant,American Restaurant,Asian Restaurant,French Restaurant,Chinese Restaurant,Bakery
+Chinatown,3,Chinese Restaurant,Bakery,Vietnamese Restaurant,Dim Sum Restaurant,Dumpling Restaurant,Mexican Restaurant,Hotpot Restaurant,Cantonese Restaurant,Noodle House,Sandwich Place
+Chelsea,3,Bakery,Café,French Restaurant,Italian Restaurant,Pizza Place,American Restaurant,Seafood Restaurant,Mexican Restaurant,Tapas Restaurant,Sandwich Place
+South Side,3,Pizza Place,American Restaurant,Burger Joint,Mexican Restaurant,Chinese Restaurant,Deli / Bodega,Japanese Restaurant,Latin American Restaurant,Taco Place,Indian Restaurant
+East Village,3,Pizza Place,Vietnamese Restaurant,Chinese Restaurant,Italian Restaurant,Japanese Restaurant,Mexican Restaurant,Vegetarian / Vegan Restaurant,Deli / Bodega,French Restaurant,Bagel Shop
+Prospect Heights,4,Mexican Restaurant,Thai Restaurant,Deli / Bodega,Pizza Place,Japanese Restaurant,Café,Bakery,Southern / Soul Food Restaurant,Diner,American Restaurant
+Manhattanville,4,Chinese Restaurant,Deli / Bodega,Seafood Restaurant,Mexican Restaurant,Italian Restaurant,Fried Chicken Joint,Sandwich Place,Sushi Restaurant,Pizza Place,Caribbean Restaurant
+Prospect Lefferts Gardens,4,Deli / Bodega,Pizza Place,Bakery,Café,Caribbean Restaurant,Chinese Restaurant,Indian Restaurant,Italian Restaurant,Spanish Restaurant,Sushi Restaurant
+Tudor City,4,Café,Deli / Bodega,Greek Restaurant,Mexican Restaurant,Pizza Place,Sushi Restaurant,Diner,Restaurant,American Restaurant,Asian Restaurant
+Williamsburg,4,Deli / Bodega,Latin American Restaurant,Pizza Place,Taco Place,Fast Food Restaurant,Bagel Shop,Tapas Restaurant,Food Truck,Café,Seafood Restaurant
+Windsor Terrace,4,Deli / Bodega,Chinese Restaurant,Sushi Restaurant,Pizza Place,Diner,Café,Italian Restaurant,Japanese Restaurant,Greek Restaurant,French Restaurant
+Yorkville,4,Italian Restaurant,Pizza Place,Deli / Bodega,Sushi Restaurant,Japanese Restaurant,Sandwich Place,Restaurant,Bakery,Diner,Mexican Restaurant
+Carroll Gardens,4,Italian Restaurant,Deli / Bodega,Pizza Place,Bakery,Food Truck,Thai Restaurant,Diner,Café,Breakfast Spot,Restaurant
+Greenpoint,4,Deli / Bodega,Pizza Place,Mexican Restaurant,Sushi Restaurant,French Restaurant,Chinese Restaurant,Polish Restaurant,Sandwich Place,Italian Restaurant,Bakery
+Boerum Hill,4,Deli / Bodega,Pizza Place,Sandwich Place,Seafood Restaurant,Fried Chicken Joint,French Restaurant,Chinese Restaurant,Caribbean Restaurant,Food Truck,American Restaurant
+Brooklyn Heights,4,Deli / Bodega,Sandwich Place,Italian Restaurant,Pizza Place,Food Truck,Bakery,Diner,Asian Restaurant,Café,Sushi Restaurant
+Fort Hamilton,4,Pizza Place,Deli / Bodega,Sandwich Place,Chinese Restaurant,Restaurant,Italian Restaurant,Japanese Restaurant,Café,Bagel Shop,Food Truck
+Bushwick,4,Deli / Bodega,Mexican Restaurant,Bakery,Sandwich Place,Pizza Place,New American Restaurant,Café,Italian Restaurant,Diner,Fast Food Restaurant
+Clinton Hill,4,Deli / Bodega,Pizza Place,Restaurant,Mexican Restaurant,Chinese Restaurant,Italian Restaurant,Caribbean Restaurant,Indian Restaurant,Thai Restaurant,Diner
+Vinegar Hill,5,Food Truck,Café,Deli / Bodega,Donut Shop,American Restaurant,Indian Sweet Shop,Latin American Restaurant,Middle Eastern Restaurant,Bakery,Mexican Restaurant
+Marble Hill,6,Sandwich Place,American Restaurant,Deli / Bodega,Diner,Pizza Place,Donut Shop,Steakhouse,Bakery,Seafood Restaurant,Ethiopian Restaurant
+Coney Island,7,Pizza Place,Deli / Bodega,Food Stand,Caribbean Restaurant,Vegetarian / Vegan Restaurant,Food Court,Café,Bakery,Fast Food Restaurant,Food
+Sutton Place,8,Pizza Place,Italian Restaurant,Indian Restaurant,Bagel Shop,Mexican Restaurant,American Restaurant,Steakhouse,Restaurant,French Restaurant,Sushi Restaurant
+Carnegie Hill,8,Pizza Place,Bakery,Café,Italian Restaurant,Sushi Restaurant,French Restaurant,Japanese Restaurant,Food Truck,Vietnamese Restaurant,Restaurant
+Upper West Side,8,Italian Restaurant,Indian Restaurant,Vegetarian / Vegan Restaurant,Pizza Place,Bakery,Bagel Shop,Mexican Restaurant,Restaurant,Breakfast Spot,Middle Eastern Restaurant
+Lenox Hill,8,Italian Restaurant,Sushi Restaurant,Pizza Place,Burger Joint,Café,Deli / Bodega,Chinese Restaurant,French Restaurant,Bakery,Diner
+Noho,8,Italian Restaurant,Pizza Place,Sushi Restaurant,Japanese Restaurant,Mexican Restaurant,French Restaurant,Café,Sandwich Place,American Restaurant,Indian Restaurant
+Murray Hill,8,Sandwich Place,Japanese Restaurant,American Restaurant,Sushi Restaurant,Restaurant,Italian Restaurant,French Restaurant,Café,Seafood Restaurant,Burger Joint
+Fort Greene,8,Italian Restaurant,Pizza Place,Restaurant,Caribbean Restaurant,Southern / Soul Food Restaurant,Bagel Shop,New American Restaurant,French Restaurant,Indian Restaurant,Mexican Restaurant
+Turtle Bay,8,Italian Restaurant,Deli / Bodega,Café,Sushi Restaurant,Steakhouse,Japanese Restaurant,Sandwich Place,Indian Restaurant,Ramen Restaurant,French Restaurant
+Midtown South,9,Korean Restaurant,American Restaurant,Sandwich Place,Japanese Restaurant,Burger Joint,Bakery,Italian Restaurant,Salad Place,New American Restaurant,Food Court
+Stuyvesant Town,10,Deli / Bodega,German Restaurant,Sandwich Place,Bistro,Bakery,Wings Joint,Fast Food Restaurant,Food Court,Food,Filipino Restaurant
+Roosevelt Island,11,Deli / Bodega,Sandwich Place,Pizza Place,Noodle House,Hotpot Restaurant,Japanese Restaurant,Restaurant,Kosher Restaurant,Café,Greek Restaurant
+Hudson Yards,12,Café,American Restaurant,Italian Restaurant,Restaurant,Spanish Restaurant,Deli / Bodega,Salad Place,Burger Joint,Greek Restaurant,Sandwich Place
+Clinton,12,Italian Restaurant,Deli / Bodega,American Restaurant,Restaurant,Sandwich Place,Chinese Restaurant,Café,Thai Restaurant,Mexican Restaurant,Pizza Place
+Financial District,12,Sandwich Place,American Restaurant,Pizza Place,Café,Italian Restaurant,Food Truck,Steakhouse,Salad Place,Mexican Restaurant,Deli / Bodega
+Gramercy,12,Italian Restaurant,Pizza Place,Mexican Restaurant,American Restaurant,Bagel Shop,Thai Restaurant,Sandwich Place,Vietnamese Restaurant,Restaurant,Diner
+Tribeca,12,American Restaurant,Italian Restaurant,Café,Deli / Bodega,Bakery,Greek Restaurant,Sandwich Place,Poke Place,French Restaurant,Steakhouse
+Dumbo,13,Café,American Restaurant,Pizza Place,Italian Restaurant,Bakery,Food Truck,New American Restaurant,Food Court,Burger Joint,Sandwich Place
+Fulton Ferry,13,Café,Food Truck,American Restaurant,Food Court,Bakery,Pizza Place,Seafood Restaurant,Mexican Restaurant,Sushi Restaurant,Middle Eastern Restaurant
+Lincoln Square,13,Food Truck,Café,Italian Restaurant,American Restaurant,French Restaurant,Chinese Restaurant,Deli / Bodega,Restaurant,Pizza Place,Mediterranean Restaurant
+Central Harlem,14,Seafood Restaurant,Southern / Soul Food Restaurant,Fried Chicken Joint,Caribbean Restaurant,Deli / Bodega,Pizza Place,Chinese Restaurant,African Restaurant,Sandwich Place,American Restaurant
